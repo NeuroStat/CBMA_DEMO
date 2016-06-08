@@ -1,0 +1,9 @@
+study	n1	
+Baumgartner	29	
+Civai	19	
+Corradi	23	
+Guo	27	
+Haiko	23	
+Harle	38	
+Kir	40	
+Tomasino	17	
