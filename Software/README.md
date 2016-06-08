@@ -1,4 +1,4 @@
-# Here you find the software that will be used in the demonstration about coordinate based meta-analyses.
+# Pick your software.
 
 ## Seed based d mapping
 This is located in the folder sdm and can also be found online at:
