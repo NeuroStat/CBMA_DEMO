@@ -1,2 +1,2 @@
 # CBMA_DEMO
-Demonstration of Coordinate Based Meta-Analyses
+Demonstration of Coordinate Based Meta-Analyses in fMRI.
